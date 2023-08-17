@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://technotes-fcqd.onrender.com',
+    'https://technotes-fcqd.onrender.com/',
   
 ]
 
